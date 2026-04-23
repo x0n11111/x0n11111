@@ -1,16 +1,12 @@
-## Hi there 👋
+<h2 align="center"> 👋 Hi, I'm x0n11111 👋 </a> </h2> 
+<p align="center">
+   The purpose of learning is growth, and our mind, unlike our body, can continue to grow as long as we continue to live.</p>
+<p align="center">(Mortimer J. Adler)</p>
 
-<!--
-**x0n11111/x0n11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li><b>Discord: </b> <a href="#" target="_blank">x0n11111#0751</a></li>
+  <li><b>Website: </b> <a href="https://www.x0n1.it">x0n1.in</a></li>
+  <li><b>Twitter: </b> <a href="https://twitter.com/x0n11111" target="_blank">@x0n11111</a></li>
+  <li><b>Linkedin: </b> <a href="https://www.linkedin.com/in/ethanabraham/" target="_blank">https://www.linkedin.com/in/ethanabraham/</a></li>
+</ul>
